@@ -1,7 +1,7 @@
 # iFINANCE MANAGER
 ​
 ##### By RODGERS JAYUGA
-### It is a description of my resume.
+
 ​
 ## Table of Content
 ​
@@ -15,7 +15,7 @@
 ## Description
 <p>This is  a website that  allows users to monitor and track their finances.</p>
 ​
-## Installation
+
 ​
 ### Requirements
 ​
