@@ -1,0 +1,113 @@
+/* style the header section */
+
+
+header{
+    background-color: #070E21;
+    color: #ffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+span{
+    margin-left: 50%;
+}
+nav{
+    max-width: 1080px;
+    padding: 15px;
+    margin-left:10%;
+    margin-top: -25px;
+}
+nav>ul{
+    text-align: center;
+}
+nav>ul>li{
+    display: inline-block;
+    padding: 15px;
+    margin-inline-end: 10px;
+    box-shadow: 1px 1px 5px;
+}
+nav>ul>li>a{
+    padding: 15px;
+}
+nav>ul>li>a:hover{
+    color: white;
+    background-color: grey;
+    padding: 15px;
+}
+
+
+/* SIGN UP PAGE STYLING */
+
+
+.signup{
+    background-color: #070E21;
+    text-align: center;
+      
+    
+    
+}
+.signup>h1, .signup>label{
+    color: aliceblue;
+    text-align: center;
+
+}
+.signup>label{
+    color: aliceblue;
+    text-align: center;
+    
+
+}
+.signup>input{
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid blue;
+    border-radius: 25px;
+    margin-inline-start: 10px;
+}
+
+.signup>p{
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+}
+#check{
+    width: 30px;
+    height: 15px;
+
+}
+#cancel, #confirm{
+    padding: 15px;
+    padding-inline: 40px;
+    font-size: large;
+}
+#cancel{
+    background-color: red;
+    box-shadow:white 10x 10px 10px;
+
+}
+#confirm{
+    background-color: green;
+}
+#cancel:hover, #confirm:hover{
+    color: white;
+    
+}
+
+/* FOOTER STYLING */
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 50px;
+    font-size: larger;
+    opacity: 0.7;
+    border-top: 10%;
+}
+.contact>a:hover{
+    color: blue;
+}

@@ -1,0 +1,95 @@
+/* style the header section */
+
+
+header{
+    background-color: #070E21;
+    color: #ffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+span{
+    margin-left: 50%;
+}
+nav{
+    max-width: 1080px;
+    padding: 15px;
+    margin-left:10%;
+    margin-top: -25px;
+}
+nav>ul{
+    text-align: center;
+}
+nav>ul>li{
+    display: inline-block;
+    padding: 15px;
+    margin-inline-end: 10px;
+    box-shadow: 1px 1px 5px;
+}
+nav>ul>li>a{
+    padding: 15px;
+}
+nav>ul>li>a:hover{
+    color: white;
+    background-color: grey;
+    padding: 15px;
+}
+
+/* STYLE THE FORM  */
+form{
+    display: flex;
+    justify-content: space-around;
+}
+form>label{
+    color: wheat;
+    padding: 15px;
+}
+
+/* STYLE THE TABLES */
+
+.budgeting{
+    background-color: #070E21;
+    margin-top: -4px;
+}
+
+table, th ,td{
+    
+    border-collapse: collapse;
+    margin: 20px;
+    
+}
+.cashflow, .balancesheet{
+    color: white;
+    
+}
+td{
+    padding: 10px;
+
+}
+input{
+    height: 20px;
+}
+
+.balancesheet{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* FOOTER STYLING */
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 50px;
+    font-size: larger;
+    opacity: 0.7;
+    border-top: 10%;
+}
+.contact>a:hover{
+    color: blue;
+}
