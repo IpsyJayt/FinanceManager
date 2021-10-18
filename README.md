@@ -13,7 +13,7 @@
 + [Authors Info](#author-Info)
 ​
 ## Description
-<p>This is  a website that  allows users to monitor and track their finances.</p>
+This is  a website that  allows users to monitor and track their finances.
 ​
 ## Installation
 ​
@@ -31,8 +31,6 @@
 ​
 * CSS - which was used to style the pages.
 ​
-## Reference
-* Materialize CSS
 ​
 [Go Back to the top](#portfolio)
 ​
@@ -64,10 +62,16 @@ SOFTWARE.
 ​
 ## Authors Info
 ​
-EMAIL ADDRESS - [RODGERS JAYUGA]( ipsyjayt@gmail.com)
+ ### EMAIL ADDRESS 
+ [ipsyjayt@gmail.com]( ipsyjayt@gmail.com)
 ​
-Twitter- [Ipsy_Satricon](https://twitter.com/IpsySatricon17)
+### TWITTER
 
-LinkedIn - [Ipsy Jayt] (https://www.linkedin.com/in/ipsy-jayt-8a5aba223/)
+[Ipsy_Satricon](https://twitter.com/IpsySatricon17)
+
+### LinkedIn 
+[Ipsy Jayt] (https://www.linkedin.com/in/ipsy-jayt-8a5aba223/)
+
+#### TOP
 ​
 [Go Back to the top](#portfolio)
